@@ -1,3 +1,4 @@
+-- insert troll face, memcorruptv2
 local library = { 
 	flags = { }, 
 	items = { } 
@@ -20,14 +21,14 @@ local camera = game.Workspace.CurrentCamera
 library.theme = {
     fontsize = 15,
     titlesize = 18,
-    font = Enum.Font.Roboto,
-    background = "",
-    tilesize = 90,
+    font = Enum.Font.Code,
+    background = "rbxassetid://5553946656",
+    tilesize = 0,
     backgroundcolor = Color3.fromRGB(20, 20, 20),
     tabstextcolor = Color3.fromRGB(240, 240, 240),
     bordercolor = Color3.fromRGB(60, 60, 60),
-    accentcolor = Color3.fromRGB(255,255,255),
-    accentcolor2 = Color3.fromRGB(179, 179, 179),
+    accentcolor = Color3.fromRGB(250, 250, 250),
+    accentcolor2 = Color3.fromRGB(158, 158, 158),
     outlinecolor = Color3.fromRGB(60, 60, 60),
     outlinecolor2 = Color3.fromRGB(0, 0, 0),
     sectorcolor = Color3.fromRGB(30, 30, 30),
