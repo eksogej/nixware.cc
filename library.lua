@@ -1,4 +1,3 @@
--- insert troll face, memcorruptv2
 local library = { 
 	flags = { }, 
 	items = { } 
@@ -31,7 +30,7 @@ library.theme = {
     accentcolor2 = Color3.fromRGB(158, 158, 158),
     outlinecolor = Color3.fromRGB(60, 60, 60),
     outlinecolor2 = Color3.fromRGB(0, 0, 0),
-    sectorcolor = Color3.fromRGB(30, 30, 30),
+    sectorcolor = Color3.fromRGB(20, 20, 20),
     toptextcolor = Color3.fromRGB(255, 255, 255),
     topheight = 48,
     topcolor = Color3.fromRGB(30, 30, 30),
